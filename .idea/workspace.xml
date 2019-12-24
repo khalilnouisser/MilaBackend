@@ -26,13 +26,6 @@
       <change afterPath="$PROJECT_DIR$/../../Bridgestone/Backend/routes/products.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bridgestone/Backend/routes/revendeurs.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Bridgestone/Backend/utils/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnGraphQL/.idea/LearnGraphQL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnGraphQL/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnGraphQL/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnGraphQL/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnGraphQL/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnGraphQL/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnGraphQL/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/core/authentication/authentication.guard.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/core/authentication/authentication.service.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/core/authentication/credentials.service.ts" afterDir="false" />
@@ -58,41 +51,71 @@
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/models/product.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/models/subCategory.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/models/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/add-edit-blog/add-edit-blog.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/add-edit-blog/add-edit-blog.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/add-edit-blog/add-edit-blog.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/blogs.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/blogs.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/blogs.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/blogs.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/add-edit-category/add-edit-category.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/add-edit-category/add-edit-category.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/add-edit-category/add-edit-category.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/add-edit-category/add-edit-category.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/categories.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/categories.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/categories.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/categories/categories.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/add-edit-client/add-edit-client.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/add-edit-client/add-edit-client.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/add-edit-client/add-edit-client.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/add-edit-client/add-edit-client.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/clients.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/clients.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/clients.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/confirm-mail/confirm-mail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/confirm-mail/confirm-mail.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/confirm-mail/confirm-mail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/confirm-mail/confirm-mail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/contacts/contacts.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/contacts/contacts.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/contacts/contacts.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/contacts/contacts.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/edit-password/edit-password.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/edit-password/edit-password.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/edit-password/edit-password.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/edit-password/edit-password.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/kpis/kpis.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/kpis/kpis.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/kpis/kpis.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/kpis/kpis.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/partenaires/partenaires.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/partenaires/partenaires.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/partenaires/partenaires.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/partenaires/partenaires.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/add-edit-product/add-edit-product.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/add-edit-product/add-edit-product.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/add-edit-product/add-edit-product.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/add-edit-product/add-edit-product.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/products.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/products.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/products.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/products/products.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/reset-password/reset-password.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/reset-password/reset-password.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/reset-password/reset-password.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/reset-password/reset-password.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/add-admin/add-admin.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/add-admin/add-admin.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/add-admin/add-admin.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/add-admin/add-admin.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/users.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/users.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/users.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/users/users.component.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/assets/img/brand/black.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/assets/img/brand/green.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MilaAdminstration/src/assets/img/brand/white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/kpi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/partenaire.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/sub-category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/blogs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/clients.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/kpis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/partenaires.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/Comment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/blog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/category.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/complimentaryInfo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/i18nContent.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/kpi.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/partenaire.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/product.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/subCategory.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/models/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/translations/it.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MilaFrontend/src/translations/jp.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../MilaFrontend/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../MilaFrontend/src/assets/img/blog-bg-1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../MilaFrontend/src/assets/img/blog-bg-2.png" afterDir="false" />
@@ -151,8 +174,8 @@
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/login/login.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/maps/maps.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/maps/maps.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/register/register.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/register/register.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/register/register.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/register/register.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/blogs/add-edit-blog/add-edit-blog.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/register/register.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/clients/clients.component.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/pages/register/register.component.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/app/variables/charts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaAdminstration/src/app/variables/charts.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/assets/img/brand/argon-white.png" beforeDir="false" />
@@ -169,19 +192,13 @@
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaAdminstration/src/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaAdminstration/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaAdminstration/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/blogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/blogs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/clients.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/clients.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/partenaires.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/partenaires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/products.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MilaFrontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/about/about.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/about/about.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/blog/detail-blog/detail-blog.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/blog/detail-blog/detail-blog.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/home/home.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/products/detail-product/detail-product.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/products/detail-product/detail-product.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/shared/our-products/our-products.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/shared/our-products/our-products.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/app/shared/shared.module.ts" afterDir="false" />
@@ -191,6 +208,7 @@
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/assets/img/brand/dark.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/environments/environment.prod.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MilaFrontend/src/theme/theme-variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../MilaFrontend/src/theme/theme-variables.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -237,7 +255,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="7025" />
+          <entry key="js" value="7057" />
           <entry key="json" value="34" />
           <entry key="yml" value="34" />
         </counts>
@@ -245,7 +263,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="34" />
-          <entry key="JavaScript" value="7025" />
+          <entry key="JavaScript" value="7057" />
           <entry key="YAML" value="34" />
         </counts>
       </usages-collector>
@@ -253,23 +271,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="121" column="25" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="25" />
-              <folding>
-                <element signature="e#342#1516#0" />
-              </folding>
+            <state relative-caret-position="1565">
+              <caret line="160" column="23" lean-forward="true" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/models/user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="10" selection-start-line="2" selection-end-line="3" />
+            <state relative-caret-position="394">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -343,8 +358,8 @@
         <option value="$PROJECT_DIR$/routes/blogs.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/models/category.js" />
-        <option value="$PROJECT_DIR$/models/user.js" />
         <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/models/user.js" />
       </list>
     </option>
   </component>
@@ -461,16 +476,15 @@
       <workItem from="1576272837449" duration="1391000" />
       <workItem from="1576627936176" duration="1902000" />
       <workItem from="1576765385828" duration="63000" />
-      <workItem from="1577035551421" duration="16468000" />
+      <workItem from="1577035551421" duration="18489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137356000" />
+    <option name="totallyTimeSpent" value="139377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1666" height="949" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25167173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -761,20 +775,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/user.js">
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-end-line="3" />
+        <state relative-caret-position="1565">
+          <caret line="160" column="23" lean-forward="true" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
+    <entry file="file://$PROJECT_DIR$/models/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="121" column="25" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="25" />
-          <folding>
-            <element signature="e#342#1516#0" />
-          </folding>
+        <state relative-caret-position="394">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>

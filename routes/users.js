@@ -73,6 +73,7 @@ router.post('/admin', function (req, res, next) {
         if (req.body.img_url) {
             user.img_url = req.body.img_url;
         }
+        console.log(req.body.password);
         User.create(user,
             function (err, user) {
                 if (err) return res.status(500).send({
